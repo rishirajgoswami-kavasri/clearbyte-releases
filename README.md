@@ -30,6 +30,12 @@ Download the latest APK from the **Releases** section of this repository.
 * Production-Grade Scanning Engine
 * Performance-Focused Processing
 
+## Development Information
+
+* Published by: KAVASRI Technologies
+* Full-Stack Developer: Rishiraj Goswami, B.CA., CEH & CCNP
+* App Icon Designer: Ritaban Goswami
+
 ## Support
 
 * Email: [inquiry.contactus5@gmail.com](mailto:inquiry.contactus5@gmail.com)
