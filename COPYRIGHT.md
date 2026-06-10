@@ -6,6 +6,12 @@ All rights reserved.
 
 ClearByte, including its software, source code, binaries, release packages, documentation, user interface designs, graphics, branding elements, logos, icons, screenshots, and associated materials are protected by applicable copyright and intellectual property laws.
 
+Development Information
+
+* Published by: KAVASRI Technologies
+* Full-Stack Developer: Rishiraj Goswami, B.CA., CEH & CCNP
+* App Icon Designer: Ritaban Goswami
+
 The contents of this repository are provided solely for distribution of official ClearByte release packages and related documentation.
 
 No permission is granted to:
